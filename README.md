@@ -4,6 +4,10 @@
 
 This is simple chatbot done with Dialogflow and Python and Google Calendar API. Chatbot can be connected with Google Calendar. Backend is wrote in Python with Flask framework.
 
+#### Example dialogue ####
+
+![](https://i.imgur.com/y4dcgZ9.jpg)
+
 ### Skills of workshop station chatbot: ###
 
 * make an appointment for you
